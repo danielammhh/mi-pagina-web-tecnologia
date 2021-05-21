@@ -6,23 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La selección</title>
-    <link rel= "stylesheet" href= "estilos.css">
-
-    <body>
-    
-    <style>
-        body { background-color: lavenderblush;
-            text-align: unset;
-            list-style-position: inside;
-            margin: 2px;
-  
-}
-
-
-    </style>
+    <link rel="stylesheet" href="index.css">
 </head>
 
 <body>
+    
     <center>
 
     <h1>La Selección Kiera Cass </h1> <body>
@@ -50,6 +38,8 @@
         selección</p>
 
     <ul>
+
+
         <li>La élite</li>
         <li>La elegida</li>
         <li>La heredera</li>
@@ -57,6 +47,10 @@
     </ul>
 
     <p>Ademas se hicieron secuelas en donde se habla de la vida de algunos<em> Personajes secundarios </em> como:</p>
+
+
+
+
 
     <ul>
         <li>La reina</li>
@@ -74,49 +68,48 @@
     <a target="_blank" href="https://www.buscalibre.com.co/libro-la-corona-kiera-cass-roca-editorial/9789588763187/p/47489809?gclid=Cj0KCQjw9_mDBhCGARIsAN3PaFPb7JxFQfLLnDwkIDeS4vPWBJe6JSUF9Su7uWC4bboI8_dI_GfcMqcaAuZDEALw_wcB"><li>La corona</li></a>
         </ul>
 
-<h1>Leer en PDF</h1>
 
-<table>
-    <thead>
-        <tr>
-            <th> Ventajas </th>
-            <th> Desventajas </th>
-        </tr>
-    </thead>
+    </ul>
 
-
-    <tbody>
-
-<tr>
-    <td>No hay gastos en espacio fisico
-    <td>Se puede dañar los lectores electronicos</td>
-    </td>
-</tr>
+    <h1>Leer en PDF</h1> 
+    <table>
+        <thead>
+            <tr>
+       
+            <th> Ventajas</th>
+            <th> Desventajas</th>
+            </tr>
 
             <tr>
-<td> No hay gastos economicos
-     <td>
-    Puede entrar un virus a tu aparato
-     </td>
 
-</td>
+            <th>No hay gastos en espacio fisico</th>
+            <th>Se pueden dañar los lectores electronicos</th>
+            </tr>
+
+            <tr>
+                <th> No hay gastos economicos </th>
+                <th> Posibilidades de introducir un virus</th>
+
+
+            </tr>
+
+            <tr> 
+                <th> Facil consulta </th>
+                <th>Cansancion en la vista</th>
 
             </tr>
 
             <tr>
-                <td> Facil consulta 
-                <td> Cansancio en l vista </td>
-                </td>
+                <th>La lectura es más rapida</th>
+                <th>Se pierde la escensia principal de un libro </th>
             </tr>
+        </thead>
+    </table>
 
-            <tr>
-                <td> La lerctura es más rapida
-                <td> Se pierde la escencia principal de un libro</td>
+  
 
-                </td>
-            </tr>
-    </tbody>
-</table>
+
+    
 
 </center>
 </body>
